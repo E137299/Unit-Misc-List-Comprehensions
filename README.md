@@ -1,5 +1,9 @@
 # Misc: List Comprehensions
 
+ - [List Comprehesion Tutorial Videos](https://www.youtube.com/watch?v=Tzv3f8eEQdM&list=PL4eU-_ytIUt8oN3Mqp1reD8_xeVNMn0EW)
+ - W3 Schools: [List Comprehension Tutorial](https://www.w3schools.com/Python/python_lists_comprehension.asp)
+
+ ![List Comprehension](list_comprehension.png)
 
 #### Instructions:
 For each of the following tasks, write Python code that solves the problem. Test your code to ensure that it works as expected.
